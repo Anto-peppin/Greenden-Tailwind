@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+
+@theme{
+  --shadow-3d:-2px -2px 2px rgb(255, 255, 255),2px 2px 2px black,inset 0 2px 5px rgba(0, 0, 0, 0.4);
+  --shadow-down:inset -2px 2px 2px rgb(0, 0, 0),inset 3px -3px 3px rgb(255, 255, 255);
+  --border-bottom:2px solid black;
+  --clip-card:path("M 0,10 A 10,10,0,0,1 10,0 L 210,0 A 10,10,0,0,1 220,10 L 220,75 A 10,10,0,0,0 230,85 L 290,85 A 10,10,0,0,1 300,95 L 300,290 A 10,10,0,0,1 290,300 L 10,300 A 10,10,0,0,1 0,290 Z");
+
+
+}
+
+
