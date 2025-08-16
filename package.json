@@ -11,7 +11,9 @@
     "tail": "npx @tailwindcss/cli -i ./docs/input.css -o ./docs/output.css --watch"
   },
   "dependencies": {
-    "@tailwindcss/cli": "^4.1.11",
-    "tailwindcss": "^4.1.11"
+    "@tailwindcss/cli": "^4.1.11"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.1.12"
   }
 }
